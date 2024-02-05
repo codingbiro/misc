@@ -3,6 +3,9 @@ compinit
 source <(kubectl completion zsh)
 alias k="kubectl"
 
+# Move word keybind
+bindkey -e; bindkey '\e\e[C' forward-word; bindkey '\e\e[D' backward-word
+
 # Custom zsh prompt
 NEWLINE=$'\n'
 PROMPT="${NEWLINE}%F{cyan}%D{%L:%M:%S} %F{white}%d${NEWLINE}%F{reset}> "
@@ -24,3 +27,8 @@ if [ -f '/Users/quick/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/quick/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/quick/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
 
+# Add Homebrew's executable directory to the front of the PATH
+export PATH=/usr/local/bin:$PATH
+
+# Add node to PATH
+export PATH="/opt/homebrew/Cellar/node@18/18.18.0/bin:$PATH"
