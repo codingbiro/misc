@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+ <channel>
+  <item>
+   <g:title><![CDATA[Hama midi perler 1000 stk 6 farver 66]]></g:title>
+   <g:description><![CDATA[Indeholder 1000 stk. i 6 forskellige, blandede farver. Fra 5 år.]]></g:description>
+   <g:product_type><![CDATA[Perler]]></g:product_type>
+   <g:price><![CDATA[17.95 DKK]]></g:price>
+   <g:shipping>
+    <g:country><![CDATA[DK]]></g:country>
+    <g:price><![CDATA[29 DKK]]></g:price>
+   </g:shipping>
+   <g:availability><![CDATA[in stock]]></g:availability>
+   <g:sale_price><![CDATA[]]></g:sale_price>
+   <g:id><![CDATA[000588]]></g:id>
+   <link><![CDATA[https://www.bog-ide.dk/produkt/2705882/hama-midi-perler-1000-stk-6-farver-66/000588]]></link>
+   <g:image_link><![CDATA[https://image.bog-ide.dk/4822886-1102227-1000-564/webp/1080/0/4822886-1102227-1000-564.webp]]></g:image_link>
+   <g:brand><![CDATA[Hama]]></g:brand>
+   <g:gtin><![CDATA[0028178207663]]></g:gtin>
+   <g:mpn><![CDATA[380766]]></g:mpn>
+   <g:condition><![CDATA[new]]></g:condition>
+   <g:item_group_id><![CDATA[0161]]></g:item_group_id>
+  </item>
+  <item>
+   <g:title><![CDATA[Hama midi perler 1000 klar 19]]></g:title>
+   <g:description><![CDATA[Hama Midi Perler 1000 Stk Klar]]></g:description>
+   <g:product_type><![CDATA[Perler]]></g:product_type>
+   <g:price><![CDATA[17.95 DKK]]></g:price>
+   <g:shipping>
+    <g:country><![CDATA[DK]]></g:country>
+    <g:price><![CDATA[29 DKK]]></g:price>
+   </g:shipping>
+   <g:availability><![CDATA[in stock]]></g:availability>
+   <g:sale_price><![CDATA[]]></g:sale_price>
+   <g:id><![CDATA[000606]]></g:id>
+   <link><![CDATA[https://www.bog-ide.dk/produkt/2705881/hama-midi-perler-1000-klar-19/000606]]></link>
+   <g:image_link><![CDATA[https://image.bog-ide.dk/4822887-1102228-1000-571/webp/1080/0/4822887-1102228-1000-571.webp]]></g:image_link>
+   <g:brand><![CDATA[Hama]]></g:brand>
+   <g:gtin><![CDATA[0028178207199]]></g:gtin>
+   <g:mpn><![CDATA[380719]]></g:mpn>
+   <g:condition><![CDATA[new]]></g:condition>
+   <g:item_group_id><![CDATA[0161]]></g:item_group_id>
+  </item>
+ </channel>
+ </rss>
+</xml>
