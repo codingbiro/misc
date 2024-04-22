@@ -1,0 +1,95 @@
+{
+  "_id": {
+    "$oid": "655343217e2c5848d40d2b63"
+  },
+  "identifiersV2": [
+    {
+      "id": "1017403",
+      "type": "mpn"
+    },
+    {
+      "id": "5705140683148",
+      "type": "gtin"
+    },
+    {
+      "id": "5705140683148",
+      "type": "barcode"
+    },
+    {
+      "id": "3135237890016559190",
+      "type": "googleShoppingId"
+    },
+    {
+      "id": "100081579",
+      "type": "sku"
+    }
+  ],
+  "title": "Royal Copenhagen Hvid Riflet Frokosttallerken - Ø 22 cm - Porcelæn - Hvid",
+  "description": "Tag den Hvid Riflet tallerken i brug, og gør lidt ekstra ud af din frokost, eller brug dem som en del af din fine borddækning, når du får gæster. Håndmalet porcelæn Klassisk design fra Royal Copenhagen 2 års brudgaranti Hvid Riflet fra Royal Copenhagen Royal Copenhagens Hvid Riflet serie har hurtigt vokset sig op og er blevet en moderne klassiker. De ikoniske rifler fra det Mussenmalede stel, er her fremstillet i en serie for sig. Enkelt, rent og elegant. Porcelæn fra Royal Copenhagen har i mere end 230 år glædet mennesker i Danmark og verden over. Med stor respekt for de eksisterende metoder skaber Royal Copenhagen tidens look og mode. Hvid Riflets enkle og moderne udtryk gør stellet til et perfekt hverdagsstel med et strejf af luksus. Hold det enkelt eller sammensæt med andet stel Hvid Riflet serien har et klassisk og moderne udtryk og kan nemt kombineres med resten af Royal Copenhagens mange fine stel - både de sorte og de blå. Skab et stilrent udtryk ved at kombinere med andet stel fra Hvid Riflet serien eller skab et mere personligt look ved at kombinere på kryds og tværs. Historisk design fra Royal Copenhagen Porcelæn fra Royal Copenhagen har i mere end 230 år glædet mennesker i Danmark og verden over. Med stor respekt for de eksisterende metoder skaber Royal Copenhagen tidens look og mode. Hvid Riflets enkle og moderne udtryk gør stellet til et perfekt hverdagsstel med et strejf af luksus. Alle delene i serien Hvid Riflet tåler opvaskemaskine og mikroovn.",
+  "originalUrl": "https://www.imerco.dk/royal-copenhagen-hvid-riflet-frokosttallerken-oe-22-cm-porcelaen-hvid?id=100081579&dfw_tracker=61960-100081579&utm_medium=cpc&utm_source=google&utm_campaign=18283627357&gclid=CjwKCAiA0syqBhBxEiwAeNx9N2ho6OmHP7C5gJg52uL18mHw5rA0qIhq5WCzoEhdUN3ejwBtfVU9JRoCSH4QAvD_BwE",
+  "variantUrl": {
+    "protocol": "https:",
+    "domain": "imerco.dk",
+    "page": "/royal-copenhagen-hvid-riflet-frokosttallerken-oe-22-cm-porcelaen-hvid",
+    "variables": "?id=100081579"
+  },
+  "countryCode": "DK",
+  "meta": {
+    "source": {
+      "type": "feed",
+      "feedId": "test",
+      "directFeed": true
+    },
+    "sourceLastSyncAt": {
+      "$date": "2024-04-22T11:00:12.427Z"
+    }
+  },
+  "stock": {
+    "status": "InStock"
+  },
+  "createdAt": {
+    "$date": "2023-02-17T04:14:43.737Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T11:00:12.437Z"
+  },
+  "schemaVersion": 2,
+  "restoredAt": {
+    "$date": "2023-11-14T18:28:54.496Z"
+  },
+  "productId": "aW1lcmNvLmRrL3JveWFsLWNvcGVuaGFnZW4taHZpZC1yaWZsZXQtZnJva29zdHRhbGxlcmtlbi1vZS0yMi1jbS1wb3JjZWxhZW4taHZpZD9pZD0xMDAwODE1Nzl7aWQ6OnYxfURL",
+  "price": {
+    "currency": "DKK",
+    "isDiscount": false,
+    "amount": 189.95,
+    "priceAt": {
+      "$date": "2024-04-14T22:36:17.886Z"
+    }
+  },
+  "attributes": [
+    {
+      "type": "category",
+      "value": "3553"
+    },
+    {
+      "type": "color",
+      "value": "Hvid"
+    },
+    {
+      "type": "category",
+      "value": "Køkkentilbehør"
+    },
+    {
+      "type": "material",
+      "value": "Porcelæn"
+    },
+    {
+      "type": "category",
+      "value": "Frokosttallerkener"
+    }
+  ],
+  "brandName": "Royal Copenhagen",
+  "imageUrls": [
+    "https://integration.imerco.dk/cdn-cgi/image/width=400,format=auto//api/assetstorage/3990_be5cd435-03f0-4f77-883e-db9792ff3ecf"
+  ]
+}
