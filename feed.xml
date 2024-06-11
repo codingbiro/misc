@@ -11,7 +11,7 @@
    <link><![CDATA[https://www.birovince.com/1]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
    <g:price><![CDATA[100 DKK]]></g:price>
-   <g:availability><![CDATA[in stock]]></g:availability>
+   <g:availability><![CDATA[out of stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 DKK]]></g:price>
    </g:shipping>
@@ -27,7 +27,7 @@
    <link><![CDATA[https://www.birovince.com/2]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
    <g:price><![CDATA[100 DKK]]></g:price>
-   <g:availability><![CDATA[out of stock]]></g:availability>
+   <g:availability><![CDATA[in stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 DKK]]></g:price>
    </g:shipping>
@@ -42,7 +42,7 @@
    <g:material><![CDATA[Porcelæn]]></g:material>
    <link><![CDATA[https://www.birovince.com/3]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
-   <g:price><![CDATA[100 DKK]]></g:price>
+   <g:price><![CDATA[1100 DKK]]></g:price>
    <g:availability><![CDATA[out of stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 DKK]]></g:price>
@@ -58,7 +58,7 @@
    <g:material><![CDATA[Porcelæn]]></g:material>
    <link><![CDATA[https://www.birovince.com/4]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
-   <g:price><![CDATA[100 BGN]]></g:price>
+   <g:price><![CDATA[10 BGN]]></g:price>
    <g:availability><![CDATA[out of stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 BGN]]></g:price>
