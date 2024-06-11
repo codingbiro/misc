@@ -2,18 +2,82 @@
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
  <channel>
   <item>
-   <g:brand><![CDATA[Vince]]></g:brand>
-   <title><![CDATA[Vince Test]]></title>
-   <description><![CDATA[test]]></description>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 1 PD]]></title>
+   <description><![CDATA[random description]]></description>
    <g:condition><![CDATA[New]]></g:condition>
    <g:color><![CDATA[Hvid]]></g:color>
    <g:material><![CDATA[Porcelæn]]></g:material>
    <link><![CDATA[https://www.birovince.com/1]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
-   <g:price><![CDATA[200.95 USD]]></g:price>
+   <g:price><![CDATA[100 DKK]]></g:price>
    <g:availability><![CDATA[in stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 DKK]]></g:price>
+   </g:shipping>
+   <g:id><![CDATA[5705140683148]]></g:id>
+  </item>
+  <item>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 2 BIS]]></title>
+   <description><![CDATA[random description]]></description>
+   <g:condition><![CDATA[New]]></g:condition>
+   <g:color><![CDATA[Hvid]]></g:color>
+   <g:material><![CDATA[Porcelæn]]></g:material>
+   <link><![CDATA[https://www.birovince.com/2]]></link>
+   <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
+   <g:price><![CDATA[100 DKK]]></g:price>
+   <g:availability><![CDATA[out of stock]]></g:availability>
+   <g:shipping>
+    <g:price><![CDATA[19 DKK]]></g:price>
+   </g:shipping>
+   <g:id><![CDATA[5705140683148]]></g:id>
+  </item>
+  <item>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 3 PD AND BIS]]></title>
+   <description><![CDATA[random description]]></description>
+   <g:condition><![CDATA[New]]></g:condition>
+   <g:color><![CDATA[Hvid]]></g:color>
+   <g:material><![CDATA[Porcelæn]]></g:material>
+   <link><![CDATA[https://www.birovince.com/3]]></link>
+   <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
+   <g:price><![CDATA[100 DKK]]></g:price>
+   <g:availability><![CDATA[out of stock]]></g:availability>
+   <g:shipping>
+    <g:price><![CDATA[19 DKK]]></g:price>
+   </g:shipping>
+   <g:id><![CDATA[5705140683148]]></g:id>
+  </item>
+  <item>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 4 No PD]]></title>
+   <description><![CDATA[random description]]></description>
+   <g:condition><![CDATA[New]]></g:condition>
+   <g:color><![CDATA[Hvid]]></g:color>
+   <g:material><![CDATA[Porcelæn]]></g:material>
+   <link><![CDATA[https://www.birovince.com/4]]></link>
+   <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
+   <g:price><![CDATA[100 BGN]]></g:price>
+   <g:availability><![CDATA[out of stock]]></g:availability>
+   <g:shipping>
+    <g:price><![CDATA[19 BGN]]></g:price>
+   </g:shipping>
+   <g:id><![CDATA[5705140683148]]></g:id>
+  </item>
+  <item>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 5 No BIS]]></title>
+   <description><![CDATA[random description]]></description>
+   <g:condition><![CDATA[New]]></g:condition>
+   <g:color><![CDATA[Hvid]]></g:color>
+   <g:material><![CDATA[Porcelæn]]></g:material>
+   <link><![CDATA[https://www.birovince.com/5]]></link>
+   <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
+   <g:price><![CDATA[100 USD]]></g:price>
+   <g:availability><![CDATA[in stock]]></g:availability>
+   <g:shipping>
+    <g:price><![CDATA[19 USD]]></g:price>
    </g:shipping>
    <g:id><![CDATA[5705140683148]]></g:id>
   </item>
