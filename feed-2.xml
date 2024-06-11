@@ -1,17 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<products>
-    <product>
-        <id><![CDATA[834495]]></id>
-        <title><![CDATA[KÉRASTASE Elixir Ultime Power Edition Hair Oil 30 ml]]></title>
-        <description><![CDATA[Limited Edition Power udgave! Kun tilgængelig i februar og marts 2024.<br /><br />10% af nettosalget fra Power Edition blive doneret til vores lokale danske NGO, The Soulfuls, som en del af Kérastase Power Talks-programmet.<br /><br />Elixir Ultime olie er en alsidig forskønnende olie, der giver livløst hår en fin glans.<br /><br />Indeholder en exceptionel blanding af amla, kamelia, argan, og majsolier, som kompletteres med marulaolie.<br /><br />Håret føles velplejet, får beskyttelse mod varme og frizz-kontrol. Indhyller håret i en lokkende duft og giver glans.]]></description>
-        <link><![CDATA[https://www.matas.dk/kerastase-elixir-ultime-power-edition-hair-oil-30-ml]]></link>
-        <image_link><![CDATA[https://images.matas.dk/trs/w890/encode/3474637217143_1_20240123163558.jpg]]></image_link>
-        <price><![CDATA[249.95]]></price>
-        <availability><![CDATA[in stock]]></availability>
-        <brand><![CDATA[KÉRASTASE]]></brand>
-        <gtin><![CDATA[3474637217143]]></gtin>
-        <condition><![CDATA[new]]></condition>
-        <product_type><![CDATA[Hår > Shampoo & Hårpleje > Hårolie & Serum]]></product_type>
-        <sale_price><![CDATA[]]></sale_price>
-    </product>
-</products>
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>Tina Lykkegaard </title>
+        <link>https://renlykke.dk</link>
+        <description></description>
+        <item>
+            <title>Croll &amp; Denecke Flaskerenser - Tina Lykkegaard</title>
+            <link>https://renlykke.dk/products/croll-denecke-flaskerenser?variant=40904119976072</link>
+            <description></description>
+            <g:google_product_category>469</g:google_product_category>
+            <g:item_group_id>shopify_DK_7147436277896</g:item_group_id>
+            <g:id>shopify_DK_7147436277896_40904119976072</g:id>
+            <g:condition>new</g:condition>
+            <g:price>45,00 DKK</g:price><g:availability>in stock</g:availability>
+            <g:image_link>https://renlykke.dk/cdn/shop/products/Flaskerenser2_grande.jpg?v=1668596580</g:image_link>
+            <g:gtin>4009463202941</g:gtin>
+            <g:brand>Tina Lykkegaard</g:brand>
+            <g:mpn>20294</g:mpn>
+            <g:product_type></g:product_type>
+            <g:shipping_weight>0.05 kg</g:shipping_weight>
+        </item>
+        <item>
+            <title>Croll &amp; Denecke fodrulle med pigge</title>
+            <link>https://renlykke.dk/products/croll-denecke-fodruller-med-pigge?variant=47257075351882</link>
+            <description>Forkæl de trætte og ømme fødderGør dig selv en tjeneste, med en lækker fodmassage, efter en lang dag. Vores fødder er på hårdt arbejde hver dag, og alligevel er det ofte en af de kropsdele vi glemmer at pleje.Giv dine fødder lidt ekstra kærlighed, med denne fodrulle fra Croll &amp;amp; Denecke. Brug den til behandling af ømme og trætte fødder, eller som ren velvære og selvforkælelse.Fodrullen er også helt genial til sansestimuli til børn, eller en oplagt gaveidé 🎁</description>
+            <g:google_product_category>469</g:google_product_category>
+            <g:item_group_id>shopify_DK_8556761350474</g:item_group_id>
+            <g:id>shopify_DK_8556761350474_47257075351882</g:id>
+            <g:condition>new</g:condition>
+            <g:price>159,00 DKK</g:price><g:availability>in stock</g:availability>
+            <g:image_link>https://renlykke.dk/cdn/shop/files/Croll_Deneckefodrulleblaa_grande.jpg?v=1698406112</g:image_link>
+            <g:gtin>4009463202736</g:gtin>
+            <g:brand>Croll &amp; Denecke</g:brand>
+            <g:mpn>C&DFodblå</g:mpn>
+            <g:product_type>Massage</g:product_type>
+            <g:shipping_weight>0.15 kg</g:shipping_weight>
+        </item>
+    </channel>
+</rss>
