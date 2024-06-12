@@ -81,6 +81,22 @@
    </g:shipping>
    <g:id><![CDATA[5705140683148]]></g:id>
   </item>
+  <item>
+   <g:brand><![CDATA[Allowed]]></g:brand>
+   <title><![CDATA[Product 6]]></title>
+   <description><![CDATA[random description]]></description>
+   <g:condition><![CDATA[New]]></g:condition>
+   <g:color><![CDATA[Hvid]]></g:color>
+   <g:material><![CDATA[Porcelæn]]></g:material>
+   <link><![CDATA[https://www.birovince.com/6]]></link>
+   <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
+   <g:price><![CDATA[10000 USD]]></g:price>
+   <g:availability><![CDATA[in stock]]></g:availability>
+   <g:shipping>
+    <g:price><![CDATA[19 USD]]></g:price>
+   </g:shipping>
+   <g:id><![CDATA[5705140683148]]></g:id>
+  </item>
  </channel>
 </rss>
 
