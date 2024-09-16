@@ -8,10 +8,11 @@
    <g:condition><![CDATA[New]]></g:condition>
    <g:color><![CDATA[Hvid]]></g:color>
    <g:material><![CDATA[Porcelæn]]></g:material>
-   <link><![CDATA[https://www.asd2.com/1]]></link>
+   <link><![CDATA[https://www.asd3.com/1]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
    <g:price>50DKK</g:price>
    <g:asin>723220573726x</g:asin>
+   <g:gtin>723220573726</g:gtin>
    <g:availability><![CDATA[in stock]]></g:availability>
    <g:shipping>
     <g:price><![CDATA[19 DKK]]></g:price>
