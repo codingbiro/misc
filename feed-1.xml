@@ -4,11 +4,11 @@
   <item>
    <g:brand><![CDATA[Allowed]]></g:brand>
    <title><![CDATA[Product 1 PD]]></title>
-   <description><![CDATA[random description]]></description>
+   <description><![CDATA[random description \n test newline]]></description>
    <g:condition><![CDATA[New]]></g:condition>
    <g:color><![CDATA[Hvid]]></g:color>
    <g:material><![CDATA[Porcelæn]]></g:material>
-   <link><![CDATA[https://www.asd3.com/1]]></link>
+   <link><![CDATA[https://www.birovince.com/1]]></link>
    <g:image_link><![CDATA[https://loremflickr.com/640/640]]></g:image_link>
    <g:price>50DKK</g:price>
    <g:asin>723220573726x</g:asin>
